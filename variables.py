@@ -24,9 +24,9 @@
 
 # ... Écrivez votre code ici ...
 
+ma_variable = 0;
 
-
-print(ma_variable)
+print(ma_variable);
 
 
 
@@ -39,8 +39,8 @@ print(ma_variable)
 
 # ... Écrivez votre code ici ...
 
-texte = "Salut !"
-
+texte = "Salut !";
+print(texte);
 
 
 # Exercice 1.3
@@ -55,9 +55,9 @@ texte = "Salut !"
 
 nombre = 2 # ne pas toucher à cette ligne !
 
+nombre +=3;
 
-
-print(nombre)
+print(nombre);
 
 
 # Exercice 1.4
