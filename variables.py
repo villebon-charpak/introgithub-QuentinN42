@@ -74,6 +74,15 @@ print(nombre)
 
 
 
+nb_client = 0;
 
+
+
+nb_client +=1;
+nb_client +=1;
+nb_client -=1;
+
+
+print(nb_client);
 
 
